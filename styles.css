@@ -1,4 +1,6 @@
-
+*{
+    box-sizing: border-box;
+}
 img{
     width: 846px;
     height: 400px;
@@ -10,17 +12,17 @@ iframe{
 }
 
 .ptag{
-    font-size: 25px;
+    font-size: 20px;
     font-weight: bold;
 }
 
 span{
     font-weight: lighter;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 p{
-    font-size: 25px;
+    font-size: 20px;
 }
 
 a{
