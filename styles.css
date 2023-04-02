@@ -1,0 +1,37 @@
+img{
+    width: 846px;
+    height: 400px;
+}
+
+iframe{
+    width: 846px;
+    height: 400px; 
+}
+
+.ptag{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+span{
+    font-weight: lighter;
+}
+
+a{
+    text-decoration: none;
+}
+
+button{
+    display: block;
+    width: 150px;
+    height: 35px;
+    background-color: green;
+    /* color: white; */
+    font-size: large;
+    border-color: white;
+    border-radius: 7px;
+}
+
+.btn{
+    color: white;
+}
